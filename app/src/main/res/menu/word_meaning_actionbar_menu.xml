@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:essorfrench="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_share"
+        android:title="@string/action_share"
+        essorfrench:showAsAction="always" />
+    <item android:id="@+id/action_star"
+        android:title="@string/action_star"
+        essorfrench:showAsAction="always" />
+</menu>

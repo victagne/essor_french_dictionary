@@ -1,0 +1,135 @@
+<resources>
+    <style name="NightTheme" parent="Theme.AppCompat">
+        <item name="android:activatedBackgroundIndicator">@drawable/muliple_selected_item</item>
+        <item name="android:textColor">@color/colorTextNightMode</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:activatedBackgroundIndicator">@drawable/muliple_selected_item</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppThemeBlueGrey" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryBlueGrey</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkBlueGrey</item>
+        <item name="colorAccent">@color/colorAccentBlueGery</item>
+        <item name="android:tabWidgetStyle">@style/CustomTabWidgetBlueGrey</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="actionModeStyle">@style/BlueGrey.ActionMode</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDarkBlueGrey</item>
+    </style>
+    <style name="BlueGrey.ActionMode" parent="@style/Widget.AppCompat.ActionMode">
+        <item name="background">@color/colorPrimaryBlueGrey</item>
+    </style>
+    <style name="CustomTabWidgetBlueGrey" parent="@android:style/Widget.Material.Light.TabWidget">
+        <item name="android:background">@color/colorPrimaryBlueGrey</item>
+    </style>
+
+    <style name="AppThemeGrey" parent="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryGrey</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkGrey</item>
+        <item name="colorAccent">@color/colorAccentGery</item>
+        <item name="android:tabWidgetStyle">@style/CustomTabWidgetGrey</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="actionModeStyle">@style/Grey.ActionMode</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDarkGrey</item>
+    </style>
+    <style name="Grey.ActionMode" parent="@style/Widget.AppCompat.ActionMode">
+        <item name="background">@color/colorPrimaryGrey</item>
+    </style>
+    <style name="CustomTabWidgetGrey" parent="@android:style/Widget.Material.Light.TabWidget">
+        <item name="android:background">@color/colorPrimaryGrey</item>
+    </style>
+
+    <style name="AppThemeIndigo" parent="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryIndigo</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkIndigo</item>
+        <item name="colorAccent">@color/colorAccentIndigo</item>
+        <item name="android:tabWidgetStyle">@style/CustomTabWidgetIndigo</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="actionModeStyle">@style/Indigo.ActionMode</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDarkIndigo</item>
+    </style>
+    <style name="Indigo.ActionMode" parent="@style/Widget.AppCompat.ActionMode">
+        <item name="background">@color/colorPrimaryIndigo</item>
+    </style>
+    <style name="CustomTabWidgetIndigo" parent="@android:style/Widget.Material.Light.TabWidget">
+        <item name="android:background">@color/colorPrimaryIndigo</item>
+    </style>
+
+    <style name="AppThemeGreen" parent="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryGreen</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkGreen</item>
+        <item name="colorAccent">@color/colorAccentGreen</item>
+        <item name="android:tabWidgetStyle">@style/CustomTabWidgetGreen</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="actionModeStyle">@style/Green.ActionMode</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDarkGreen</item>
+    </style>
+    <style name="Green.ActionMode" parent="@style/Widget.AppCompat.ActionMode">
+        <item name="background">@color/colorPrimaryGreen</item>
+    </style>
+    <style name="CustomTabWidgetGreen" parent="@android:style/Widget.Material.Light.TabWidget">
+        <item name="android:background">@color/colorPrimaryGreen</item>
+    </style>
+
+    <style name="AppThemePurple" parent="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryPurple</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkPurple</item>
+        <item name="colorAccent">@color/colorAccentPurple</item>
+        <item name="android:tabWidgetStyle">@style/CustomTabWidgetPurple</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="actionModeStyle">@style/Purple.ActionMode</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDarkPurple</item>
+    </style>
+    <style name="Purple.ActionMode" parent="@style/Widget.AppCompat.ActionMode">
+        <item name="background">@color/colorPrimaryPurple</item>
+    </style>
+    <style name="CustomTabWidgetPurple" parent="@android:style/Widget.Material.Light.TabWidget">
+        <item name="android:background">@color/colorPrimaryPurple</item>
+    </style>
+
+    <!--<style name="AppThemeBrown" parent="AppTheme">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/colorPrimaryBrown</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDarkBrown</item>-->
+        <!--<item name="colorAccent">@color/colorAccentBrown</item>-->
+        <!--<item name="android:tabWidgetStyle">@style/CustomTabWidgetBrown</item>-->
+        <!--<item name="android:textColor">@color/colorText</item>-->
+        <!--<item name="android:navigationBarColor">@color/colorPrimaryDarkBrown</item>-->
+    <!--</style>-->
+    <!--<style name="CustomTabWidgetBrown" parent="@android:style/Widget.Material.Light.TabWidget">-->
+        <!--<item name="android:background">@color/colorPrimaryBrown</item>-->
+    <!--</style>-->
+
+    <style name="AppThemeCyan" parent="AppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimaryCyan</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkCyan</item>
+        <item name="colorAccent">@color/colorAccentCyan</item>
+        <item name="android:tabWidgetStyle">@style/CustomTabWidgetCyan</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="actionModeStyle">@style/Cyan.ActionMode</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDarkCyan</item>
+    </style>
+    <style name="Cyan.ActionMode" parent="@style/Widget.AppCompat.ActionMode">
+        <item name="background">@color/colorPrimaryCyan</item>
+    </style>
+    <style name="CustomTabWidgetCyan" parent="@android:style/Widget.Material.Light.TabWidget">
+        <item name="android:background">@color/colorPrimaryCyan</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

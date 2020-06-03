@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingLeft="25dp"
+    android:paddingRight="25dp">
+    <TextView
+        android:id="@+id/about_dialog_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autoLink="email"
+        android:clickable="true"
+        android:paddingBottom="20dp"
+        android:paddingTop="10dp"
+        android:textSize="18sp" />
+</LinearLayout>

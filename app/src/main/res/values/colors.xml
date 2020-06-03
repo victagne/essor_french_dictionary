@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryGrey">#9E9E9E</color>
+    <color name="colorPrimaryDarkGrey">#616161</color>
+    <!--<color name="colorAccentGery">#FF9800</color>-->
+    <color name="colorAccentGery">#616161</color>
+
+    <color name="colorPrimaryIndigo">#3F51B5</color>
+    <color name="colorPrimaryDarkIndigo">#303F9F</color>
+    <!--<color name="colorAccentIndigo">#FFC107</color>-->
+    <color name="colorAccentIndigo">#303F9F</color>
+
+    <color name="colorPrimaryGreen">#4CAF50</color>
+    <color name="colorPrimaryDarkGreen">#388E3C</color>
+    <!--<color name="colorAccentGreen">#CDDC39</color>-->
+    <color name="colorAccentGreen">#388E3C</color>
+
+    <color name="colorPrimaryPurple">#673AB7</color>
+    <color name="colorPrimaryDarkPurple">#512DA8</color>
+    <!--<color name="colorAccentPurple">#448AFF</color>-->
+    <color name="colorAccentPurple">#512DA8</color>
+
+    <color name="colorPrimaryBlueGrey">#607D8B</color>
+    <color name="colorPrimaryDarkBlueGrey">#455A64</color>
+    <!--<color name="colorAccentBlueGery">#FFC107</color>-->
+    <color name="colorAccentBlueGery">#455A64</color>
+
+    <color name="colorPrimaryCyan">#00BCD4</color>
+    <color name="colorPrimaryDarkCyan">#0097A7</color>
+    <!--<color name="colorAccentCyan">#FFC107</color>-->
+    <color name="colorAccentCyan">#0097A7</color>
+
+    <color name="colorDivider">#bdbdbd</color>
+
+    <color name="colorText">#636363</color>
+    <color name="colorTextNightMode">#FFFFFF</color>
+    <color name="multiChoiceBg">#BDBDBD</color>
+
+    <color name="darkTabwigetBg">#292929</color>
+</resources>
