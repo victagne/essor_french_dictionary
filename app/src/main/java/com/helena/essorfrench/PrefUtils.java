@@ -20,7 +20,7 @@ public class PrefUtils {
     private static final String HISTORY_NUMBER_KEY = "history_number";
     private static final String DEFAULT_HISTORY_NUMBER = "3";  //200
 
-    private static final String DEFAULT_THEME = "1";  //indigo
+    private static final String DEFAULT_THEME = "4";  //Blue grey
     private static final String DEFAULT_LINE_SPACE = "0";  //standard
     private static final String DEFAULT_TEXT_SIZE = "1";   //18sp
 
