@@ -247,18 +247,6 @@ public class AboutListAdapter extends ArrayAdapter<Pair> {
         alert.show();
     }
 
-    /*private void showSupportDialog(){
-        AlertDialog.Builder builder = new AlertDialog.Builder(mContext);
-        builder.setTitle(mContext.getString(R.string.support));
-        View view = inflater.inflate(R.layout.support_dialog, null);
-        TextView supportText = (TextView) view.findViewById(R.id.support_text) ;
-        supportText.setTypeface(font);
-        //final ImageView qcImage = (ImageView) view.findViewById(R.id.qcImg);
-        builder.setView(view);
-        AlertDialog alert = builder.create();
-        alert.show();
-    }*/
-
     private void showAboutDialog(){
         AlertDialog.Builder builder = new AlertDialog.Builder(mContext);
         builder.setTitle(mContext.getString(R.string.app_name) + " " + BuildConfig.VERSION_NAME);
