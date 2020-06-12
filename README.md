@@ -9,3 +9,5 @@ This dictionary can be downloaded from [Google Play](https://play.google.com/sto
 The most important component of a dictionary is a good library. This dictionary is based on [StarDict Dictionaries](http://download.huzheng.org)
 
 However, if you have better library and want to contribute to this project. Please contact me with essorfrench@gmail.com
+
+**BTW** why do I use "helena" in the package name? Because this is my kind wife's French name :)
