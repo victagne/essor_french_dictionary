@@ -17,14 +17,14 @@ android {
             storePassword keystoreProperties['storePassword']
         }
     }
-    compileSdkVersion 28
+    compileSdkVersion 29
     buildToolsVersion '28.0.3'
     defaultConfig {
         applicationId 'com.helena.essorfrench'
         minSdkVersion 21
-        targetSdkVersion 28
+        targetSdkVersion 29
         versionCode 3
-        versionName "1.2"
+        versionName "2.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
