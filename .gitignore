@@ -1,0 +1,13 @@
+/*/build
+
+local.properties
+keystore.properties
+.gradle/
+app/app.iml
+.idea/
+*.iml
+.DS_Store
+.DS_Store?
+._*
+ehthumbs.db
+Thumbs.db
